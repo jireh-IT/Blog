@@ -1,6 +1,5 @@
 package com.jireh.blog;
 
-import com.jireh.blog.YApp;
 import com.jireh.blog.config.AsyncSyncConfiguration;
 import com.jireh.blog.config.EmbeddedSQL;
 import java.lang.annotation.ElementType;
